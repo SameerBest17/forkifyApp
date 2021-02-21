@@ -110,7 +110,6 @@ const init = function () {
   }
 };
 init();
-console.log(state.bookmarks);
 
 //Upload Recipe Api
 
